@@ -1,0 +1,12 @@
+.avatar {
+    width: 50px;
+}
+
+.info-container {
+    margin-left: 15px;
+    text-align: center;
+}
+
+hr {
+    margin-left: -15px;
+}
