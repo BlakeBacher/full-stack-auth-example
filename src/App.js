@@ -9,13 +9,13 @@ class App extends Component {
     super(props);
 
     this.state = {
-
+      test:true
     }
   }
   render() {
     return (
       <HashRouter>
-        <Router />
+        <Router  />
       </HashRouter>
     );
   }
